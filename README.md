@@ -8,8 +8,9 @@ Example:
 
 ```go
 import (
-    "flag"
     "fmt"
+
+	"github.com/olivere/nullable"
 )
 
 func main() {
