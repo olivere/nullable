@@ -1,5 +1,7 @@
 # What is it?
 
+[![Build Status](https://travis-ci.org/olivere/nullable.svg?branch=master)](https://travis-ci.org/olivere/nullable)
+
 The `nullable` package simplifies working with `nil` pointers in Go.
 You can e.g. inspect if a value is `nil` and return its zero value
 or a default value instead.
